@@ -2,3 +2,6 @@
 	path = conway-game-of-life
 	url = https://github.com/FullSailGameStudies/conway-s-game-of-life-03-24-OsirisCastro.git
 	branch = master
+[submodule "zombie-runner"]
+	path = zombie-runner
+	url = https://github.com/Miguel-Castillo0418/Zombie-Runner.git
