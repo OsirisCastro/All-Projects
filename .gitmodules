@@ -1,0 +1,4 @@
+[submodule "conway-game-of-life"]
+	path = conway-game-of-life
+	url = https://github.com/FullSailGameStudies/conway-s-game-of-life-03-24-OsirisCastro.git
+	branch = master
